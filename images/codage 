@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+   <head>
+
+      <title> ... </title>
+      <meta name="description". content="desc...">
+      <meta charset="UTF-8">
+
+   </head>
+   <body>
+
+   </body>
+
+<html>
+
+
+
+
+
+pour image : 
+
+<img src="images/logo.png"  alt="Le wagon"
+
+
+-pour titre / sous titre ... ( headers)
+
+<h1> Main title <h1>
+<h2> subtile <h2>
+<h3>...
+<h4>...
+
+
+- pour paragraphe ...
+<p>
+...<strong> mettre en évidence </strong>
+</p>
+
+
+- faire des listes ( avec point = ul ) / nombre = ol
+
+<ul> 
+    <li> chaque element </li>
+    <li> ... </li> 
+    ...
+
+
+
+
+
+
+
+
+lien :    <a  href="http://lewagon.com" target="blank"> ... </a>
+

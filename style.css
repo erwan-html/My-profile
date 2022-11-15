@@ -1,0 +1,128 @@
+body {
+  background-color: rgb(220,220,220);
+  color: black ;
+}
+
+
+.menu {
+    display: flex;                    
+    padding:0;                        
+    background-color: whitesmoke;
+    justify-content: center 
+
+}        
+.menu li {
+    list-style-type: none ;          
+}
+
+.menu a {
+    display:block;                
+    min-width: 120px;                
+    
+    margin: 0.5rem;               
+    padding: 0.4rem 0;            
+    text-align: center;             
+    background-color: whitesmoke;    
+    color:rgb(160,160,140);                  
+    text-decoration: none;        
+    border: 1px solid grey;       
+    border-radius: 4px;           
+}
+
+.menu a:hover {
+  background-color: beige;
+  color:rgb(160,160,140);
+  border-color: whitesmoke;
+}
+
+
+h1 { 
+    color: rgb(160,160,140);
+    font-size: 50px;
+    font-family: AkayaTelivigala;
+}
+h2, h3 { 
+    color: rgb(160,160,140);
+    font-size: 50px;
+    font-family: AkayaTelivigala;
+}
+.normal{
+    color:rgb(210,210,210);
+    font-size: 30px;
+    font-family: arial;
+}
+.source{
+    color: rgb(210,210,210);
+    font-size: 30px;
+    font-family: AkayaTelivigala;
+
+}
+  h4 {
+    color: ghostwhite;
+    font-size: 50px;
+    font-family: AkayaTelivigala ;
+}
+.souligné{
+    text-decoration-line: underline;
+  }
+}
+h5, h6 {
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: AkayaTelivigala;
+}
+
+div {
+    background-color: ghostwhite;
+    padding: 40px;
+    width: 650px;
+    margin: 40px auto;
+    box box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    border-radius: 4px;
+}
+
+
+
+img{
+    width: 250px;
+}
+.sneakers{
+    width: 400px;
+    border-radius: 50%;
+}
+.photo-actu{
+    width: 300px;
+    height: 200px;
+    border-radius: 10%;
+
+}
+.sites{
+    width: 150px;
+    height: 90px;
+
+}
+#profile{
+    background-color: rgb(220,220,220);
+    width:650px;
+    height:600px;
+}
+#bande{
+    background-color: rgb(160,160,140);
+    padding: 30px;
+    width: 1365px;
+    margin: 0px;
+    border-radius: 0px;
+}
+.btn-beige{
+    font-size: 35px;
+    background-color: rgb(160,160,140);
+    color: whitesmoke;
+    padding: 15px.20px;
+    border-radius: 4px;
+}
+.btn-beige:hover{
+    background-color: black;
+    color: whitesmoke;
+}
+
